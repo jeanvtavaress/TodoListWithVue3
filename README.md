@@ -2,6 +2,8 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
+Visit at https://jeanvtavaresstodolist.netlify.app
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/93844556/192846799-a649cd49-ad17-469f-b4e3-d9081e19fad7.png" />
 </p>
