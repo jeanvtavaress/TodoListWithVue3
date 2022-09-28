@@ -60,7 +60,7 @@ h1 {
 }
 
 .text-field {
-    width: 100%;
+    width: 98.4%;
     height: 35px;
     margin-bottom: 15px;
     text-align: center;
@@ -77,11 +77,15 @@ ul {
 li {
     display: flex;
     justify-content: space-between;    
+    border: 1px solid #fff;
+    margin-bottom: 10px;
+    padding: 20px;
 }
 
 li .list-item {
     display: flex;
     align-items: center;
+
     cursor: pointer;
 }
 

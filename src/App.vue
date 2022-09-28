@@ -17,7 +17,9 @@ export default {
 <style>
 
 body {
-    background-color: rgb(101, 145, 212);
+  color: #fff;
+  background: rgb(95, 30, 43);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
 #app {
